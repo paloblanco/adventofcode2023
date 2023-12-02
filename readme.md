@@ -2,4 +2,5 @@
 
 I will be storing my solutions to AOC 2023 (https://adventofcode.com/2023) here. Feel free to follow along!
 
-[Day 1 Solution](Day1.ipynb)
+- [Day 1 Solution](Day1.ipynb)
+- [Day 2 Solution](Day2.ipynb)
